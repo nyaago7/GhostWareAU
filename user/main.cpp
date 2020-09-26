@@ -1,6 +1,3 @@
-// Generated C++ file by Il2CppInspector - http://www.djkaty.com - https://github.com/djkaty
-// Custom injected code entry point
-
 #include "pch-il2cpp.h"
 
 #define WIN32_LEAN_AND_MEAN
@@ -20,7 +17,6 @@
 
 using namespace app;
 
-// Set the name of your log file here
 extern const LPCWSTR LOG_FILE = L"GhostWareAU-log.txt";
 
 IDXGISwapChain* SwapChain;
